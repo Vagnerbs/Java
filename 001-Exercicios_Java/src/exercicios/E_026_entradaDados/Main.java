@@ -1,3 +1,4 @@
+package exercicios.E_026_entradaDados;
 import java.util.Scanner;
 
 public class Main {
